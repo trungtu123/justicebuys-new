@@ -21,7 +21,7 @@ jobs:
         password: ${{ secrets.SSH_PASSWORD }}
         port: 22
         script: | 
-          cd product_landing_page
+          cd product_landing_page_simple
           git pull origin main
           fuser -n tcp -k 3001
           python3 -c "import subprocess; subprocess.Popen(['python3', '-m', 'http.server', '3001']); exit()" &
