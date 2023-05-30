@@ -93,6 +93,10 @@ a:hover {
     animation: fadeIn 0.5s;
 }
 
+#productsHolder {
+    min-width: 100vw;
+}
+
 @keyframes fadeIn {
     from {
         opacity: 0;
