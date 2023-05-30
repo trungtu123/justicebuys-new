@@ -4,6 +4,7 @@ body {
     padding-bottom: 1%;
     background: #191b21;
     height: 100%;
+    width: 100%;
     display: flex;
     justify-content: center;
     overflow: auto;
@@ -94,7 +95,7 @@ a:hover {
 }
 
 #productsHolder {
-    min-width: 100vw;
+    min-width: 94vw;
 }
 
 @keyframes fadeIn {
