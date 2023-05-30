@@ -16,6 +16,18 @@ const referenceLinks = [
         "description": "Click Open in browser to open in app",
         "image": "https://uploads-ssl.webflow.com/6438e33d3d4e697cb6cf555d/643ed90241d741a9a0f22e19_amazon-logo.jpeg",
         "link": "https://www.amazon.com/shop/justicethetutor"
+    },
+    {
+        "title": "Shop All Amazon Products",
+        "description": "Click Open in browser to open in app",
+        "image": "https://uploads-ssl.webflow.com/6438e33d3d4e697cb6cf555d/643ed90241d741a9a0f22e19_amazon-logo.jpeg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
+    },
+    {
+        "title": "Shop All Amazon Products",
+        "description": "Click Open in browser to open in app",
+        "image": "https://uploads-ssl.webflow.com/6438e33d3d4e697cb6cf555d/643ed90241d741a9a0f22e19_amazon-logo.jpeg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
     }
 ]
 
@@ -60,6 +72,30 @@ const products = [
         "title": "product",
         "description": "asdsada",
         "image": "https://uploads-ssl.webflow.com/643edc23fc52d06b2544e0f7/6467a6af24953ff292720c6a_bedsure-bed-1.jpg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
+    },
+    {
+        "title": "product",
+        "description": "asdsada",
+        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
+    },
+    {
+        "title": "product",
+        "description": "asdsada",
+        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
+    },
+    {
+        "title": "product",
+        "description": "asdsada",
+        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
+    },
+    {
+        "title": "product",
+        "description": "asdsada",
+        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
         "link": "https://www.amazon.com/shop/justicethetutor"
     },
     {
