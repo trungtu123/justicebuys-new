@@ -1,0 +1,115 @@
+html,
+body {
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background: #191b21;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    overflow: auto;
+    color: #ffffff;
+}
+
+.information-cover {
+    background: #2d2f39;
+}
+
+.reference-cover {
+    background: #2d2f39;
+}
+
+.avatar {
+    width: 50% !important;
+    height: 50% !important;
+}
+
+.referenceLinkImage {
+    width: 20% !important;
+    height: 20% !important;
+}
+
+.social {
+    font-size: 3vh;
+}
+
+
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.h6,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+small,
+i,
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.shadow-sm {
+    box-shadow: 0 .125rem .25rem rgba(0, 0, 0, .075) !important;
+}
+
+.rounded-pill {
+    border-radius: 50rem !important;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+.product-card img {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+}
+
+.product-card:hover img {
+    -webkit-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
+.hide {
+    display: none;
+    animation: fadeOut 0.5s;
+}
+
+.show {
+    display: block;
+    animation: fadeIn 0.5s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+
+    to {
+
+        opacity: 0;
+    }
+}
