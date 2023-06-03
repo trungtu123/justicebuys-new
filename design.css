@@ -118,3 +118,8 @@ a:hover {
         opacity: 0;
     }
 }
+
+.footer-img {
+    width: 65%;
+    height: 65%;
+}
