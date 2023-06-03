@@ -98,7 +98,12 @@ const products = [
         "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
         "link": "https://www.amazon.com/shop/justicethetutor"
     },
-
+    {
+        "title": "product123",
+        "description": "asdsada",
+        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
+        "link": "https://www.amazon.com/shop/justicethetutor"
+    },
 ]
 
 function loadReferenceLink(inputReferenceLinks) {
