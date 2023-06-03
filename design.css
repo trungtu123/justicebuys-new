@@ -1,7 +1,7 @@
 html,
 body {
-    margin-top: 1vh;
-    margin-bottom: 1vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
     background: #191b21;
     height: 100%;
     width: 100%;
