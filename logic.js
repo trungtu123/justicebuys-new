@@ -10,7 +10,7 @@ const referenceLinks = [
 
 const products = [
     {
-        "title": "product1",
+        "title": "Inkless Printer",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
         "link": "https://a.co/d/2bttCkj"
