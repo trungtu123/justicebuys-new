@@ -16,22 +16,22 @@ const products = [
         "link": "https://a.co/d/2bttCkj"
     },
     {
-        "title": "product2",
+        "title": "Paper Towel Dispenser",
         "description": "asdsada",
-        "image": "https://www.shutterstock.com/image-illustration/cube-pedestal-template-studio-scene-260nw-1560932045.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/51LwQIYeYpL._AC_SL1500_.jpg",
+        "link": "https://a.co/d/0O0SFtx"
     },
     {
-        "title": "product3",
+        "title": "Mop Slippers",
         "description": "asdsada",
-        "image": "https://www.shutterstock.com/image-illustration/cube-pedestal-template-studio-scene-260nw-1560932045.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/71U2R-2V+bL._SL1001_.jpg",
+        "link": "https://a.co/d/bMaKZei"
     },
     {
-        "title": "product",
+        "title": "Portable Washing Machine",
         "description": "asdsada",
-        "image": "https://www.shutterstock.com/image-illustration/cube-pedestal-template-studio-scene-260nw-1560932045.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/515QdqehrkL._AC_SL1500_.jpg",
+        "link": "https://a.co/d/8jpRIU8"
     },
     {
         "title": "product",
