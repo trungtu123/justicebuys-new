@@ -64,34 +64,34 @@ const products = [
         "link": "https://a.co/d/cAbvDdq"
     },
     {
-        "title": "product",
+        "title": "Reusable Lint Roller",
         "description": "asdsada",
-        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/51M5kH29axL._AC_SL1500_.jpg",
+        "link": "https://a.co/d/5EXenaH"
     },
     {
-        "title": "product",
+        "title": "Egg Cracker",
         "description": "asdsada",
-        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/41vEPMx+h9L._AC_SL1500_.jpg",
+        "link": "https://a.co/d/cMJni9v"
     },
     {
-        "title": "product",
+        "title": "Bedsure Dog Bed",
         "description": "asdsada",
-        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/81-8H5-UPRL._AC_SL1500_.jpg",
+        "link": "https://a.co/d/fhql95y"
     },
     {
-        "title": "product",
+        "title": "Vacuum Groomer",
         "description": "asdsada",
-        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/61x6eI1AZeL._AC_SL1500_.jpg",
+        "link": "https://a.co/d/cTpu3sr"
     },
     {
-        "title": "product123",
+        "title": "Bedsure Dog Bed",
         "description": "asdsada",
-        "image": "https://www.freedigitalphotos.net/images/img/homepage/87357.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/71uqWPZVzfL._AC_SL1500_.jpg",
+        "link": "https://a.co/d/fmViAR0"
     },
 ]
 
