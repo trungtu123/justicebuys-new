@@ -12,8 +12,8 @@ const products = [
     {
         "title": "product1",
         "description": "asdsada",
-        "image": "https://www.shutterstock.com/image-illustration/cube-pedestal-template-studio-scene-260nw-1560932045.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://a.co/d/2bttCkj"
     },
     {
         "title": "product2",
