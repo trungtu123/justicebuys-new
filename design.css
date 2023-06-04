@@ -33,6 +33,9 @@ body {
     font-size: 3vh;
 }
 
+.item-img {
+    height: 25vh !important;
+}
 
 .h1,
 .h2,
