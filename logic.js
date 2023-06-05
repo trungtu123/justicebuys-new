@@ -5,7 +5,7 @@ const referenceLinks = [
         "image": "https://uploads-ssl.webflow.com/6438e33d3d4e697cb6cf555d/643ed90241d741a9a0f22e19_amazon-logo.jpeg",
         "link": "https://www.amazon.com/shop/justicethetutor"
     },
-   
+
 ]
 
 const products = [
@@ -163,7 +163,7 @@ function searchProduct(inputTitleProduct) {
     const arrayOfHTMLProducts = document.getElementsByClassName("product-card");
 
     Array.from(arrayOfHTMLProducts).reverse().forEach((e) => {
-        if (e.children[0].children[0].children[1].children[0].children[0].innerText.search(inputTitleProduct) === -1) {
+        if (e.children[0].children[0].children[1].children[0].children[0].innerText.toLowerCase().search(inputTitleProduct.toLowerCase()) === -1) {
             e.classList.remove('show');
             e.classList.add('hide');
         } else {
