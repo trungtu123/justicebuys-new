@@ -10,6 +10,18 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "Govee Meat Thermometer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71FTjBVvhLL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3qqLUxt"
+    },
+    {
+        "title": "Reusable Straws",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61+KfnRnx2L._AC_.jpg",
+        "link": "https://amzn.to/3Noas3s"
+    },
+    {
         "title": "Fruit Washer",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/71xkDMLPFbL._AC_SL1500_.jpg",
