@@ -3,7 +3,7 @@ const referenceLinks = [
         "title": "Shop All Amazon Products",
         "description": "Click Open in browser to open in app",
         "image": "https://uploads-ssl.webflow.com/6438e33d3d4e697cb6cf555d/643ed90241d741a9a0f22e19_amazon-logo.jpeg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "link": "https://justicebuys.org/"
     },
 
 ]
