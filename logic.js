@@ -10,40 +10,40 @@ const referenceLinks = [
 
 const products = [
     {
-        "title": "Inkless Printer",
+        "title": "Fruit Washer",
         "description": "asdsada",
-        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://amzn.to/3Cn02L0"
+        "image": "https://m.media-amazon.com/images/I/71xkDMLPFbL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3N3OZey"
     },
     {
-        "title": "Inkless Printer",
+        "title": "Bottle Washer",
         "description": "asdsada",
-        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://amzn.to/3Cn02L0"
+        "image": "https://m.media-amazon.com/images/I/61fogFdzIoL._AC_SL1001_.jpg",
+        "link": "https://amzn.to/3No9Gn4"
     },
     {
-        "title": "Inkless Printer",
+        "title": "Eggplant Sauce Bottle",
         "description": "asdsada",
-        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://amzn.to/3Cn02L0"
+        "image": "https://m.media-amazon.com/images/I/716zhiMNcxL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Nmm72F"
     },
     {
-        "title": "Inkless Printer",
+        "title": "Food Huggers",
         "description": "asdsada",
-        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://amzn.to/3Cn02L0"
+        "image": "https://m.media-amazon.com/images/I/71iE0MvSkRL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3CmRvaX"
     },
     {
-        "title": "Inkless Printer",
+        "title": "Wine Wash",
         "description": "asdsada",
-        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://amzn.to/3Cn02L0"
+        "image": "https://m.media-amazon.com/images/I/71snU6DP64L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3N33OhC"
     },
     {
-        "title": "Inkless Printer",
+        "title": "Sliding Tray",
         "description": "asdsada",
-        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://amzn.to/3Cn02L0"
+        "image": "https://m.media-amazon.com/images/I/61GMSQxwpML._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43Qx1TB"
     },
     {
         "title": "Knife Cleaner",
