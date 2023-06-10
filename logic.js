@@ -16,6 +16,66 @@ const products = [
         "link": "https://amzn.to/3Cn02L0"
     },
     {
+        "title": "Inkless Printer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Cn02L0"
+    },
+    {
+        "title": "Inkless Printer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Cn02L0"
+    },
+    {
+        "title": "Inkless Printer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Cn02L0"
+    },
+    {
+        "title": "Inkless Printer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Cn02L0"
+    },
+    {
+        "title": "Inkless Printer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Cn02L0"
+    },
+    {
+        "title": "Knife Cleaner",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71Aho0ghB3L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3J7AS6K"
+    },
+    {
+        "title": "Pickle Fork",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71O2Bbkv--L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/42yHAtm"
+    },
+    {
+        "title": "Egg Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61JLpQ0hvwL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/42zAAN9"
+    },
+    {
+        "title": "Swiffer PowerMop",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81ijxBfJSbL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3P4XaKo"
+    },
+    {
+        "title": "Inkless Printer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Cn02L0"
+    },
+    {
         "title": "Paper Towel Dispenser",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/51LwQIYeYpL._AC_SL1500_.jpg",
@@ -46,10 +106,10 @@ const products = [
         "link": "https://amzn.to/3NlSoqv"
     },
     {
-        "title": "product",
+        "title": "Waterproof Blankets",
         "description": "asdsada",
-        "image": "https://uploads-ssl.webflow.com/643edc23fc52d06b2544e0f7/6467a6af24953ff292720c6a_bedsure-bed-1.jpg",
-        "link": "https://www.amazon.com/shop/justicethetutor"
+        "image": "https://m.media-amazon.com/images/I/91VEEC2KBQL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3qHIvdG"
     },
     {
         "title": "Folding Board",
