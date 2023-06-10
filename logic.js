@@ -13,37 +13,37 @@ const products = [
         "title": "Inkless Printer",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61bD00Xle5L._AC_SL1500_.jpg",
-        "link": "https://a.co/d/2bttCkj"
+        "link": "https://amzn.to/3Cn02L0"
     },
     {
         "title": "Paper Towel Dispenser",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/51LwQIYeYpL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/0O0SFtx"
+        "link": "https://amzn.to/3oTb07X"
     },
     {
         "title": "Mop Slippers",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/71U2R-2V+bL._SL1001_.jpg",
-        "link": "https://a.co/d/bMaKZei"
+        "link": "https://amzn.to/45TeY10"
     },
     {
         "title": "Portable Washing Machine",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/515QdqehrkL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/8jpRIU8"
+        "link": "https://amzn.to/45YfYkg"
     },
     {
         "title": "Banana Filler",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/81GFFLiZOCL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/eYTApBa"
+        "link": "https://amzn.to/3WVMakp"
     },
     {
         "title": "Spinning Whisk",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61t-bMNX3SL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/j26Mcy5"
+        "link": "https://amzn.to/3NlSoqv"
     },
     {
         "title": "product",
@@ -55,43 +55,43 @@ const products = [
         "title": "Folding Board",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61h9Gzj+3nL._AC_SL1194_.jpg",
-        "link": "https://a.co/d/dyiHoJL"
+        "link": "https://amzn.to/3P532D9"
     },
     {
         "title": "Beverage Barricade",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/81BLDL0XxNL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/cAbvDdq"
+        "link": "https://amzn.to/43TwaBy"
     },
     {
         "title": "Reusable Lint Roller",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/51M5kH29axL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/5EXenaH"
+        "link": "https://amzn.to/3qzRYDZ"
     },
     {
         "title": "Egg Cracker",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/41vEPMx+h9L._AC_SL1500_.jpg",
-        "link": "https://a.co/d/cMJni9v"
+        "link": "https://amzn.to/45O3OKO"
     },
     {
         "title": "Bedsure Dog Bed",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/81-8H5-UPRL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/fhql95y"
+        "link": "https://amzn.to/3qEEJlk"
     },
     {
         "title": "Vacuum Groomer",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61x6eI1AZeL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/cTpu3sr"
+        "link": "https://amzn.to/45VeyHm"
     },
     {
         "title": "Bedsure Dog Bed",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/71uqWPZVzfL._AC_SL1500_.jpg",
-        "link": "https://a.co/d/fmViAR0"
+        "link": "https://amzn.to/3OYO69Q"
     },
 ]
 
