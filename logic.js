@@ -165,6 +165,79 @@ const products = [
         "image": "https://m.media-amazon.com/images/I/71uqWPZVzfL._AC_SL1500_.jpg",
         "link": "https://amzn.to/3OYO69Q"
     },
+    {
+        "title": "Talking Buttons",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/611RfFdL5aL._AC_SL1000_.jpg",
+        "link": "https://amzn.to/3WZ6f9k"
+    },
+    {
+        "title": "Poop Scooper",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61bcO2oBOKL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3MYA7Ov"
+    },
+    {
+        "title": "Food Button",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61-PMn4WfGL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/42wZAUX"
+    },
+    {
+        "title": "Paw Cleaner",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71D2Vym14XL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3oTVrg8"
+    },
+    {
+        "title": "Body Scrubber",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61UfP8l-ZqL._SL1500_.jpg",
+        "link": "https://amzn.to/43TxSmq"
+    },
+    {
+        "title": "Tooletries Organizer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/611jttXPUWL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/42wfE9B"
+    },
+    {
+        "title": "Back Scrubber",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51XIAWCHulL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3JawdRB"
+    },
+    {
+        "title": "Sauna Dome",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61LN53DQ5kL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45Z7WYH"
+    },
+    {
+        "title": "Sauna Blanket",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71T4L09-POL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45TCCuf"
+    },
+    {
+        "title": "Dive Cups",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71sCb4mCSzL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3WXFVfY"
+    },
+    {
+        "title": "Tea Trap",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/810uorgrwnL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43Tyatw"
+    },
+    {
+        "title": "Pasta Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71O5cVAR14L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43VQq5L"
+    },
+
 ]
 
 function loadReferenceLink(inputReferenceLinks) {
