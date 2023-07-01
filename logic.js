@@ -9,6 +9,115 @@ const referenceLinks = [
 ]
 
 const products = [
+   
+    {
+        "title": "Roller Stamp",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81hCO+G+MrL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4476KRt"
+    },
+    {
+        "title": "Car LED Signs",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71I6DmEN6XL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Nzb6tN"
+    },
+    {
+        "title": "Car Rearview Mirror Wiper",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/513q04bPGFL._AC_SL1200_.jpg",
+        "link": "https://amzn.to/4350BnK"
+    },
+    {
+        "title": "Car Touch Screen",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61uGYCbhI7L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3r7LNYe"
+    },
+    {
+        "title": "Car Diffuser Humidifier",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71DqDq56mWL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3JE7F3R"
+    },
+    {
+        "title": "Car Desk",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71Ixccm7AFL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/46wrV0X"
+    },
+    {
+        "title": "Car Cup Coaster",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/814Ynz7T1iL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3CSKK0C"
+    },
+    {
+        "title": "Seat Belt Cover",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81YrCDQ1LaL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/435Mvm6"
+    },
+    {
+        "title": "Car Sauce Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/7115AWGe76L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3XNPoXL"
+    },
+    {
+        "title": "Car Seat Bag Hook ",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71Hz9qwLc0L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3XB1l2U"
+    },
+    {
+        "title": "Car Seat Gap Filler",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71aaOjmFYtL._AC_SL1440_.jpg",
+        "link": "https://amzn.to/3JCbiXK"
+    },
+    {
+        "title": "Car Rear View Mirror",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71T2TGj4XUL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3PEREOP"
+    },
+    {
+        "title": "Pastry Brush",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61k07UzfTaL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3XF8vmI"
+    },
+    {
+        "title": "Vino Spooky Bat Wine Opener",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61OdDkE5QaL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3CVUxTQ"
+    },
+    {
+        "title": "Cherry Measuring Spoons",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61sm67evTlL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3NSyBPE"
+    },
+    {
+        "title": "Dog Waste Bag",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51XTSFvlKZL._AC_SL1200_.jpg",
+        "link": "https://amzn.to/3DdWo6N"
+    },
+    {
+        "title": "Digital Thermometer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71XlSVrmZzL._SL1500_.jpg",
+        "link": "https://amzn.to/3pyzqDS"
+    },
+    {
+        "title": "Splatypus",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61oCE9suI9L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/431xO3m"
+    },
     {
         "title": "Govee Meat Thermometer",
         "description": "asdsada",
