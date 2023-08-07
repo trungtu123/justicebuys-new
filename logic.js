@@ -20,47 +20,56 @@ const products = [
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61XP+V4bArL._AC_SL1500_.jpg",
         "link": "https://amzn.to/3YvvQaU"
-        
+    },
+    {
         "title": "Cleaning Tablets",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/810qsXFUTcL._AC_SL1500_.jpg",
         "link": "https://amzn.to/45m5kmB"
-
+    },
+    {
         "title": "Reusable Water Balloons",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/7115wiG6cUL._AC_SL1500_.jpg",
         "link": "https://amzn.to/3s1zNrC"
-
+    },
+    {
         "title": "Wool Dryer Balls",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/81QmB9NJW9L._AC_SL1500_.jpg",
         "link": "https://amzn.to/44V5D7Z"
-
+    },
+    {
         "title": "Collagen Peptides",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61ncdeKKJEL._AC_SL1500_.jpg",
         "link": "https://amzn.to/43Z0muR"
-
+    },
+    {
         "title": "Digital Tape Measure",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61b3jgCxVML._SL1500_.jpg",
         "link": "https://amzn.to/3s5v344"
-
+    },
+    {
         "title": "Infrared Camera",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61X-tXcibBL._AC_SL1500_.jpg",
         "link": "https://amzn.to/3s51yPQ"
-
+    },
+    {
         "title": "Citrus Rimmer",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/71Ye2gk9OvL._AC_SL1500_.jpg",
         "link": "https://amzn.to/3qeuEvV"
-
+    },
+    {
         "title": "Phone Sticker",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/616YL9Yzo5L._AC_SL1500_.jpg",
         "link": "https://amzn.to/3qtzC7Q"
-
+    },
+    {
         "title": "Roller Stamp",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/81hCO+G+MrL._AC_SL1500_.jpg",
