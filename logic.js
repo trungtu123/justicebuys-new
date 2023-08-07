@@ -15,7 +15,8 @@ const products = [
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61CKOa2R0mL._AC_SL1000_.jpg",
         "link": "https://amzn.to/3Otbk5Y"
-
+    },
+    {
         "title": "Bottle Opener ",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61XP+V4bArL._AC_SL1500_.jpg",
