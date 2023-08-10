@@ -9,7 +9,96 @@ const referenceLinks = [
 ]
 
 const products = [
-   
+    {
+        "title": "Latte Pen",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51Iy39mZKvL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OOqgNA"
+    },
+    {
+        "title": "Fake Rock Hide Key",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91XyM4d4hyL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Oxmxmc"
+    },
+    {
+        "title": "Air Fryer Paper Plates",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71cb94OTAiL._AC_SL1483_.jpg",
+        "link": "https://amzn.to/3YqszJT"
+    },
+    {
+        "title": "Electric Hot Pot",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61LT0uGEhuL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3qoS5m2"
+    },
+    {
+        "title": "Nail Clippers",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81I8pcgt+xL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3DPPK6P"
+    },
+    {
+        "title": "Tiktok Remote Control ",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61dS1aMFRPL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OtmGHg"
+    },
+    {
+        "title": "Reusable Strawse",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61nc8JqLy7L._AC_.jpg",
+        "link": "https://amzn.to/47oFoIJ"
+    },
+    {
+        "title": "Car Rear Mirror",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71T2TGj4XUL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/451dSzv"
+    },
+    {
+        "title": "Supoon",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71-+eSXsjzL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OqErad"
+    },
+    {
+        "title": "Sink Topper",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61-GkRrtKuL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3ONNwey"
+    },
+    {
+        "title": "Water Dispenser",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61QsCs7QlhL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/442ZKnN"
+    },
+    {
+        "title": "Cable Spine",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71aZHOktMbL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43YZmqp"
+    },
+    {
+        "title": "Standing Desk Mat",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51Bmaxal8JL._AC_SL1100_.jpg",
+        "link": "https://amzn.to/47q1nii"
+    },
+    {
+        "title": "Mushroom Night Light",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61IElrASgwL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45rcVjP"
+    },
+    {
+        "title": "Mouthwash Dispenser",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/7185swvfzgL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3KBtH7P"
+    },
     {
         "title": "USB Rechargeable",
         "description": "asdsada",
