@@ -10,6 +10,85 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "Lazy Susan",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/615mURYLr-L._AC_SL1000_.jpg",
+        "link": "https://amzn.to/45D8Rg8"
+    },
+    {
+        "title": "Bed Tent",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71dX8-uor+L._AC_SL1200_.jpg",
+        "link": "https://amzn.to/3qDHynn"
+    },
+    {
+        "title": "Lemon Squeezer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71Ye2gk9OvL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45zPBQS"
+    },
+    {
+        "title": "100,000 Lumens Flashlight",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71vVi2RqOmL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3swnXFY"
+    },
+    {
+        "title": "Trash Can Compactor",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61jMiEKD17L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3KUNDCC"
+    },
+    {
+        "title": "Bottle Cleaning Brush",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61fogFdzIoL._AC_SL1001_.jpg",
+        "link": "https://amzn.to/3KWE8mi"
+    },
+    {
+        "title": "Toilet Seat Cover",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61nIFbEZoQL._AC_SL1000_.jpg",
+        "link": "https://amzn.to/3YTtYsv"
+    },
+    {
+        "title": "Phone Locker",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51LRzpWlP4L._AC_SL1000_.jpg",
+        "link": "https://amzn.to/3KXlT0m"
+    },
+    {
+        "title": "Self Extinguishing Candle",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81ZF53Jo07L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3qKticm"
+    },
+    {
+        "title": "Secret Can",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71ZKbhixIIL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OODqJ9"
+    },
+    {
+        "title": "Human Dog Bed",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91vL4AytLFL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/44jUaxC"
+    },
+    {
+        "title": "Trolley Dolly",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91XvBJtsKEL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3P9Sbrs"
+    },
+    {
+        "title": "Motion Trash Can",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51UP7jwjHPL._SL1500_.jpg",
+        "link": "https://amzn.to/44qELLS"
+    },
+
+    {
         "title": "Latte Pen",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/51Iy39mZKvL._AC_SL1500_.jpg",
