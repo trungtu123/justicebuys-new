@@ -10,6 +10,102 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "Secret Wine Bag",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91bmCcaXIUL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OO3zaV"
+    },
+    {
+        "title": "Smart Sunglasses",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61-Rsm4TgoL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3qELvbs"
+    },
+    {
+        "title": "Portable Fan",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51InvH9KoXL._AC_SL1001_.jpg",
+        "link": "https://amzn.to/3st0QfL"
+    },
+    {
+        "title": "Beer Can Covers",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/719WICXLZ6L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/47NNMl3"
+    },
+    {
+        "title": "Tanning Chair",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71sHKiaY39L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3EccsGo"
+    },
+    {
+        "title": "Electric Bug Zapper",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51xiBA3VAwL._AC_SL1060_.jpg",
+        "link": "https://amzn.to/45Nkb9T"
+    },
+    {
+        "title": "Portable Air Pump",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81KeO-tUG3L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3PaHzrd"
+    },
+    {
+        "title": "Beverage Cooler",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61i6N58NBUL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45FZM6q"
+    },
+    {
+        "title": "Magnetic Vent Covers",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71saHVawuCL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/47NWgsv"
+    },
+    {
+        "title": "Laptop Sun Shade",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/910ZTfS1kdS._AC_SL1500_.jpg",
+        "link": "https://amzn.to/47Q2bgW"
+    },
+    {
+        "title": "Reusable Water Balloons",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/7115wiG6cUL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/47K1gyq"
+    },
+    {
+        "title": "Phone Umbrella",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61Cjc5HGvES._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3EbCfi1"
+    },
+    {
+        "title": "Insect Trap Plug-in",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71xDaV8-4hL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3EazVYv"
+    },
+    {
+        "title": "Slushie Maker Cup",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81ovOPxMp8L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3OOBPD1"
+    },
+    {
+        "title": "Cell Phone Fan",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51m412VuA3L._AC_SL1000_.jpg",
+        "link": "https://amzn.to/3L0bu3R"
+    },
+    {
+        "title": "Lane Ice Stick",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81-2VL9rJ4L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3PcA44c"
+    },
+    {
         "title": "Lazy Susan",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/615mURYLr-L._AC_SL1000_.jpg",
