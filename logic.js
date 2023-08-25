@@ -10,6 +10,78 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "Rideable Suitcase",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51d0ezxopfL._AC_.jpg",
+        "link": "https://amzn.to/3L0dwB1"
+    },
+    {
+        "title": "Luggage Straps",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71eiXMTzoeL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3svtZqI"
+    },
+    {
+        "title": "Cup Holder and USB Port Suitcase",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/811DxQGu78L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3R1z6J4"
+    },
+    {
+        "title": "Reusable Lint Roller",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51M5kH29axL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3qLPsuR"
+    },
+    {
+        "title": "AirFly Connector",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61Om4fJfIVL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3st1k5z"
+    },
+    {
+        "title": "Travel Blanket and Pillow",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91iEoR+q5KL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3E9OcVg"
+    },
+    {
+        "title": "Airplane Pockets",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71jjCflTucL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3PaCeRD"
+    },
+    {
+        "title": "Luggage Cover",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71UAD4Rcm4L._AC_UX679_.jpg",
+        "link": "https://amzn.to/3EcGwlq"
+    },
+    {
+        "title": "Phone Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71mNhDNNOgL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45JoR0h"
+    },
+    {
+        "title": "Mini Perfume Bottle",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51emjDPl7CL._SL1500_.jpg",
+        "link": "https://amzn.to/45JqxXK"
+    },
+    {
+        "title": "Luggage Travel Cup Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61PPpxIBClL._AC_UX679_.jpg",
+        "link": "https://amzn.to/3QSw6Pc"
+    },
+    {
+        "title": "Collapsible Bottle",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61H1xAJ-DLL._AC_SL1000_.jpg",
+        "link": "https://amzn.to/45otptk"
+    },
+    {
         "title": "Secret Wine Bag",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/91bmCcaXIUL._AC_SL1500_.jpg",
