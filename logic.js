@@ -10,6 +10,114 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "MX20 Vacuum",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71E77-maA5L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3s6ZCa7"
+    },
+    {
+        "title": "Harry Potter Floating Candles",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81pOY08O91L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3tLGI9n"
+    },
+    {
+        "title": "Magic Bloody Bath Mat",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71dBuLAgl0L._AC_SL1259_.jpg",
+        "link": "https://amzn.to/3s5BBQK"
+    },
+    {
+        "title": "Invisibility Shield",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81oVX4buzYL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/46FQjg9"
+    },
+    {
+        "title": "Magic Broom",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71XTJ91c5qL._AC_SL1001_.jpg",
+        "link": "https://amzn.to/493wtNE"
+    },
+    {
+        "title": "Bat Wine Bottle Opener",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61fmqSOVS1L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3QDQpzH"
+    },
+    {
+        "title": "Axe Pizza Cutter",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51IpnQl+QGL._AC_SL1002_.jpg",
+        "link": "https://amzn.to/3Q1czKw"
+    },
+    {
+        "title": "Witch Utensil Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/715z4a4rdNL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3QcbAXM"
+    },
+    {
+        "title": "Gracula Garlic Crusher",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71kbnYTaUqL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3tOMJCc"
+    },
+    {
+        "title": "MedCline Pillow System",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51VJvsNwG-L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3S7Je3P"
+    },
+    {
+        "title": "Amazon Smart Plug",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51yEWwZlHrL._AC_SX679_.jpg",
+        "link": "https://amzn.to/46ZsNL0"
+    },
+    {
+        "title": "EverSnug Travel Blanket and Pillow",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91HzODg2hCL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Scz8i3"
+    },
+    {
+        "title": "EverSnug Adjustable Layer Pillows",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61OErIFXqIL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/46U5imM"
+    },
+    {
+        "title": "Divided Cereal Bowls",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/719xQTzmDvL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Qt7JXT"
+    },
+    {
+        "title": "Sink Splash Guard",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81DkyGxrzjL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3MfC4GK"
+    },
+    {
+        "title": "Portable Car Umbrella",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61f-m9HvQZL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45R6NBe"
+    },
+    {
+        "title": "Popbins Trash Bag",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71MS2RMUGFL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45DFiLj"
+    },
+    {
+        "title": "Portable SunPower Solar Panel",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/7149yKEQLaL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/46Crge2"
+    },
+    {
         "title": "Rideable Suitcase",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/51d0ezxopfL._AC_.jpg",
