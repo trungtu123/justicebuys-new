@@ -10,6 +10,12 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "The A-Team: The Complete Collection [DVD]",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81IpLI4pj4L._SL1500_.jpg",
+        "link": "https://amzn.to/48qUfSE"
+    },
+    {
         "title": "MX20 Vacuum",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/71E77-maA5L._AC_SL1500_.jpg",
