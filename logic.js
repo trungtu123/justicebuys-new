@@ -10,6 +10,22 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "Bug Soother Spray",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61T-RLnm+JL._AC_SL1080_.jpg",
+        "link": "https://amzn.to/3RzYZhW"
+    },{
+        "title": "Dog & Cat Pets Nail Clippers",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51iiP1EhLZL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3vfqoyk"
+    },{
+        "title": "Reusable Lint Roller",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/812CGCMPSIL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3TH2ZQn"
+    },
+    {
         "title": "The A-Team: The Complete Collection [DVD]",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/81IpLI4pj4L._SL1500_.jpg",
