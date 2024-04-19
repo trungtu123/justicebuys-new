@@ -9,7 +9,12 @@ const referenceLinks = [
 ]
 
 const products = [
-   
+    {
+        "title": "Scooter Luggage Carry On",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61mR9NWBqsL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3W5SxmF"
+    },
     {
         "title": "Aneaseit Chair Leg Floor Protectors",
         "description": "asdsada",
