@@ -10,6 +10,84 @@ const referenceLinks = [
 
 const products = [
     {
+        "title": "Gel Moisturizing Socks",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71VuR-UEchL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4bTwdBG"
+    },
+    {
+        "title": "Anti Snoring Devices",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81W+14b7ZmL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4524dtj"
+    },
+    {
+        "title": "Anker Magnetic Battery",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/711cNkw3OqL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3X0IDmZ"
+    },
+    {
+        "title": "Butter Cutter",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61s6zrXDGWL._AC_SL1000_.jpg",
+        "link": "https://amzn.to/4ck1w8X"
+    },
+    {
+        "title": "Jewelry Holder Storage",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61aGRFKupaL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3x5Hgso"
+    },
+    {
+        "title": "Levitating Moon Lamp",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71wd+QGAyeL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3VpkMfB"
+    },
+    {
+        "title": "Fingerprint Padlock",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61eWxwX7bCL._AC_SL1100_.jpg",
+        "link": "https://amzn.to/3VmWPFr"
+    },
+    {
+        "title": "Mattress Vacuum Cleaner",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51h-QwGG-kL._AC_SL1100_.jpg",
+        "link": "https://amzn.to/3KoDv4n"
+    },
+    {
+        "title": "Wave Electric Toothbrush",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/41mQikqmqLL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4e5uICc"
+    },
+    {
+        "title": "Pasta Microwave Cooker",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81G1AHpRXML._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4c1Ta5k"
+    },
+    {
+        "title": "Webcam Cover (3 Pack)",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81WVxMOFoTL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3V3TF8g"
+    },
+    {
+        "title": "Waterproof Shoe Covers",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61ejsERmz7L._AC_.jpg",
+        "link": "https://amzn.to/4aGPGnT"
+    },
+    {
+        "title": "Fast Drying Stone Sink",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/616CiqujVkL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3X788De"
+    },
+    {
         "title": "Scooter Luggage Carry On",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61mR9NWBqsL._AC_SL1500_.jpg",
