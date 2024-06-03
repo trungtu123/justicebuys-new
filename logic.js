@@ -9,6 +9,115 @@ const referenceLinks = [
 ]
 
 const products = [
+
+    {
+        "title": "Echo Hub Alexa",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/41Y2yt+xtqL._AC_.jpg",
+        "link": "https://amzn.to/3R8YgVD"
+    },
+    {
+        "title": "Rotating Shoe Rack Tower",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61Bsq1apdiL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/459GxTM"
+    },
+    {
+        "title": "Wall Clock with Hidden Safe",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71q3zSnl6JL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Xa9sFd"
+    },
+    {
+        "title": "Lockable Storage Box for Food",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71+7+-zfCOL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4e98pLJ"
+    },
+    {
+        "title": "Floating Golf Green for Pool",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/91qx7ugMBcL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/459Zzt1"
+    },
+    {
+        "title": "Calendar for Fridge",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71STaj0gkQL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/456bqIG"
+    },
+    {
+        "title": "Magnetic Key Rack",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51doG3MB4mS._AC_.jpg",
+        "link": "https://amzn.to/4e6JCrD"
+    },
+    {
+        "title": "Electric Bubble Massage Mat - Waterproof",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/616xCTliWxL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4e4vYp6"
+    },
+    {
+        "title": "Digital Notebook Drawing Tablet",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61pHAWdKy-L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3Vp8ljC"
+    },
+    {
+        "title": "Sandwich Cutter and Sealer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71WS1JWk8kL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3RcNw8B"
+    },
+    {
+        "title": "Cool & Warm Comforter",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71VGvWfofcL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3wWFXfv"
+    },
+    {
+        "title": "Shower Drink Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71fGsqw5jRL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3KrqOG5"
+    },
+    {
+        "title": "Flat Plug Extension Cord",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51KplmCL76L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/4dXIfLU"
+    },
+    {
+        "title": "BUG BITE THING Suction Tool",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71LrAruX2EL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3X95UTE"
+    },
+    {
+        "title": "EverSnug Pillows",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/81TJTVUSMyL._AC_SX679_.jpg",
+        "link": "https://amzn.to/4e3vTC2"
+    },
+    {
+        "title": "Pearl Necklace Shaped Wine Rack",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61YPiwJ0KwL._AC_SL1200_.jpg",
+        "link": "https://amzn.to/3x0IlSi"
+    },
+    {
+        "title": "Brita Filter Pitcher",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71RIvpJJ6RL._SL1500_.jpg",
+        "link": "https://amzn.to/4bY2SFS"
+    },
+    {
+        "title": "Foldable Trolley",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71rlPd2-wZL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3VmOGkm"
+    },
     {
         "title": "Gel Moisturizing Socks",
         "description": "asdsada",
