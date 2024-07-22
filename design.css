@@ -135,7 +135,18 @@ a:hover {
     height: 65%;
 }
 
-.swiper {
-    width: 600px;
-    height: 300px;
+.slider-btns {
+    width: 2em;
+    height: 2em;
+    display: inline-flex;
+    align-items: center;
+}
+
+@media screen and (max-width: 60rem) {
+    .slider-container {
+        justify-content: center !important;
+    }
+    .slider-btns {
+        display: none;
+    }
 }

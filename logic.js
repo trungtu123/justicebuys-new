@@ -1897,6 +1897,84 @@ const comments = [
     }
 ];
 
+const flashSaleProducts = [
+    {
+        "title": "Tooletries Organizer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/611jttXPUWL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/42wfE9B"
+    },
+    {
+        "title": "Back Scrubber",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51XIAWCHulL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3JawdRB"
+    },
+    {
+        "title": "Sauna Dome",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61LN53DQ5kL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45Z7WYH"
+    },
+    {
+        "title": "Sauna Blanket",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71T4L09-POL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45TCCuf"
+    },
+    {
+        "title": "Dive Cups",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71sCb4mCSzL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3WXFVfY"
+    },
+    {
+        "title": "Tea Trap",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/810uorgrwnL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43Tyatw"
+    },
+    {
+        "title": "Pasta Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71O5cVAR14L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43VQq5L"
+    },
+]
+
+function loadFlashSaleProducts(flashSaleProducts) {
+    const holder = document.getElementById("flashSaleProductHolder");
+    flashSaleProducts.forEach((e) => {
+        let anchorTag = document.createElement("a");
+        let img = document.createElement("img");
+        let div1 = document.createElement("div");
+        let div2 = document.createElement("div");
+        let div3 = document.createElement("div");
+        let div4 = document.createElement("div");
+        let h6 = document.createElement("h6");
+
+        div1.className = "swiper-slide col-4 col-xl-3 mb-2 product-card text-center";
+        div2.className = "list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm";
+        div3.className = "p-1 position-relative";
+        div4.className = "list-card-body";
+        anchorTag.className = "text-decoration-none";
+        img.className = "img-fluid item-img";
+        h6.className = "mb-1 text-black";
+
+        h6.innerText = e.title;
+        img.src = e.image;
+        anchorTag.href = e.link;
+
+        div4.appendChild(h6);
+        div3.appendChild(div4);
+        anchorTag.appendChild(img);
+        anchorTag.appendChild(div3);
+        div2.appendChild(anchorTag);
+        div1.appendChild(div2);
+        holder.appendChild(div1);
+    });
+}
+
 function loadComments(comments) {
     const holder = document.getElementById("commentsHolder");
     comments.forEach((e) => {
@@ -2037,6 +2115,7 @@ window.onload = () => {
     loadReferenceLink(referenceLinks);
     loadProducts(products);
     loadComments(comments);
+    loadFlashSaleProducts(flashSaleProducts);
 
     const searchBar = document.getElementById("searchBar");
     searchBar.addEventListener("keyup", (e) => {
