@@ -1884,6 +1884,155 @@ const products = [
 
 ]
 
+const comments = [
+    {
+        "name": "Derek",
+        "image": "https://uploads-ssl.webflow.com/6438e33d3d4e697cb6cf555d/6438e48d85eec52347e5f330_justice-buys-logo-p-500.png",
+        "stars": 3,
+        "summary": "At first, meh. Turn out pretty good!",
+        "location": "United States",
+        "date": "June 24, 2024",
+        "productName": "Razer BlackShark",
+        "description": "When I initially purchased the headset it was having some issues. My main issue was that when I was on discord, people could hear themselves through my mic. I tried everything possible to fix my issue and NOTHING worked. The only thing I could do is turn everyone and everything down so far I could barely hear anything. I almost gave up. I ended up trying to plug them into the BACK of my computer… and what do you know? The echo is gone and my headset works perfectly!",
+    }
+];
+
+const flashSaleProducts = [
+    {
+        "title": "Tooletries Organizer",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/611jttXPUWL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/42wfE9B"
+    },
+    {
+        "title": "Back Scrubber",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/51XIAWCHulL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3JawdRB"
+    },
+    {
+        "title": "Sauna Dome",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/61LN53DQ5kL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45Z7WYH"
+    },
+    {
+        "title": "Sauna Blanket",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71T4L09-POL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/45TCCuf"
+    },
+    {
+        "title": "Dive Cups",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71sCb4mCSzL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/3WXFVfY"
+    },
+    {
+        "title": "Tea Trap",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/810uorgrwnL._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43Tyatw"
+    },
+    {
+        "title": "Pasta Holder",
+        "description": "asdsada",
+        "image": "https://m.media-amazon.com/images/I/71O5cVAR14L._AC_SL1500_.jpg",
+        "link": "https://amzn.to/43VQq5L"
+    },
+]
+
+function loadFlashSaleProducts(flashSaleProducts) {
+    const holder = document.getElementById("flashSaleProductHolder");
+    flashSaleProducts.forEach((e) => {
+        let anchorTag = document.createElement("a");
+        let img = document.createElement("img");
+        let div1 = document.createElement("div");
+        let div2 = document.createElement("div");
+        let div3 = document.createElement("div");
+        let div4 = document.createElement("div");
+        let h6 = document.createElement("h6");
+
+        div1.className = "swiper-slide col-4 col-xl-3 mb-2 product-card text-center";
+        div2.className = "list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm";
+        div3.className = "p-1 position-relative";
+        div4.className = "list-card-body";
+        anchorTag.className = "text-decoration-none";
+        img.className = "img-fluid item-img";
+        h6.className = "mb-1 text-black";
+
+        h6.innerText = e.title;
+        img.src = e.image;
+        anchorTag.href = e.link;
+
+        div4.appendChild(h6);
+        div3.appendChild(div4);
+        anchorTag.appendChild(img);
+        anchorTag.appendChild(div3);
+        div2.appendChild(anchorTag);
+        div1.appendChild(div2);
+        holder.appendChild(div1);
+    });
+}
+
+function loadComments(comments) {
+    const holder = document.getElementById("commentsHolder");
+    comments.forEach((e) => {
+        let div1 = document.createElement("div");
+        let div2 = document.createElement("div");
+        let img = document.createElement("img");
+        let p1 = document.createElement("p");
+        let div3 = document.createElement("div");
+        let div4 = document.createElement("div");
+        let h1 = document.createElement("h4");
+        let div5 = document.createElement("div");
+        let div6 = document.createElement("div");
+        let div7 = document.createElement("div");
+        let span1 = document.createElement("span");
+        let p2 = document.createElement("p");
+
+        div2.className = "col-6 d-flex align-items-center";
+        img.className = "rounded-pill referenceLinkImage";
+        p1.className = "comment px-2 my-auto";
+        div3.className = "d-flex align-items-center";
+        div4.className = "feedbackStars";
+        h1.className = "feedbackStars px-3 my-1";
+        div5.className = "fw-light";
+        div6.className = "fw-light";
+        div7.className = "vr";
+        span1.className = "fst-italic text-warning fw-bolder";
+
+        img.src = e.image;
+        p1.innerText = e.name;
+        for (let i = 0; i < e.stars; i++) {
+            let i = document.createElement("i");
+            i.className = "bi bi-star-fill";
+            div4.appendChild(i);
+        }
+        for (let i = 0; i < 5 - e.stars; i++) {
+            let i = document.createElement("i");
+            i.className = "bi bi-star";
+            div4.appendChild(i);
+        }
+        h1.innerText = e.summary;
+        div5.innerText = `Reviewed in the ${e.location} on ${e.date}`;
+        span1.innerText = "Verified Purchase";
+        div6.innerHTML = `Product: ${e.productName} <div class="vr"></div> <span class="fst-italic text-warning fw-bolder">Verified Purchase</span>`;
+        p2.innerText = e.description;
+
+        div2.appendChild(img);
+        div2.appendChild(p1);
+        div3.appendChild(div4);
+        div3.appendChild(h1);
+        div1.appendChild(div2);
+        div1.appendChild(div3);
+        div1.appendChild(div5);
+        div1.appendChild(div6);
+        div1.appendChild(p2);
+        holder.appendChild(div1);
+    });
+}
+
 function loadReferenceLink(inputReferenceLinks) {
     const holder = document.getElementById("referenceLinkHolder");
     inputReferenceLinks.forEach((e) => {
@@ -1965,6 +2114,8 @@ function searchProduct(inputTitleProduct) {
 window.onload = () => {
     loadReferenceLink(referenceLinks);
     loadProducts(products);
+    loadComments(comments);
+    loadFlashSaleProducts(flashSaleProducts);
 
     const searchBar = document.getElementById("searchBar");
     searchBar.addEventListener("keyup", (e) => {
