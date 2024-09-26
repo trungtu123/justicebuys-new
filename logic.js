@@ -11,12 +11,6 @@ const referenceLinks = [
 const products = [
    
     {
-        "title": "",
-        "description": "asdsada",
-        "image": "",
-        "link": ""
-    },
-    {
         "title": "Glass Pot Set",
         "description": "asdsada",
         "image": "https://m.media-amazon.com/images/I/61pNqcdm94L._AC_SL1200_.jpg",
