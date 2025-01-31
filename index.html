@@ -72,7 +72,7 @@
                             <input type="text" class="form-control" placeholder="Search" id="searchBar">
                         </div>
                     </div>
-                    <div class="row gx-2 g-md-3" id="productsHolder"></div>
+                    <div class="row gx-2 g-md-3 justify-content-center" id="productsHolder"></div>
                 </div>
             </div>
         </div>
@@ -103,7 +103,7 @@
             </div>
             <hr>
             <div class="text-center">
-                <p>Copyright &copy; 2024 JusticeBuys</p>
+                <p>Copyright &copy; 2025 JusticeBuys</p>
             </div>
         </div>
     </footer>
@@ -119,16 +119,20 @@
         slidesPerView: 2.2,
         spaceBetween: 5,
         breakpoints: {
+            '@0.2': {
+                slidesPerView: 1.2,
+                spaceBetween: 10,
+            },
             '@0.5': {
-                slidesPerView: 2.8,
+                slidesPerView: 1.8,
                 spaceBetween: 10,
             },
             '@0.9': {
-                slidesPerView: 3.8,
+                slidesPerView: 3.2,
                 spaceBetween: 10,
             },
             '@1.50': {
-                slidesPerView: 4,
+                slidesPerView: 4.4,
                 spaceBetween: 15,
             },
         },

@@ -42,7 +42,7 @@ body {
 }
 
 .item-img {
-    height: 25vh !important;
+    height: 18vh !important;
 }
 
 .h1,
@@ -63,6 +63,18 @@ i,
 a {
     color: #ffffff;
     text-decoration: none;
+}
+
+.product-text{
+    color: #000000;
+}
+
+.product-description {
+    padding-top: 0.2em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    font-size: 0.9em;
+    text-align: justify;
 }
 
 img {
