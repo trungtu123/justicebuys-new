@@ -12,9 +12,11 @@ const products = [
    
     {
         "title": "Glass Pot Set",
-        "description": "asdsada",
+        "description": "I’m powered by AI, so surprises and mistakes are possible. Make sure to verify any generated code or suggestions, and share feedback so that we can learn and improve.",
         "image": "https://m.media-amazon.com/images/I/61pNqcdm94L._AC_SL1200_.jpg",
-        "link": "https://amzn.to/3zuPFXJ"
+        "link": "https://amzn.to/3zuPFXJ",
+        "price": "$49.99",
+        "saves": "10 saves"
     },
     {
         "title": "Scuba Tank with Snorkel Mask",
@@ -1906,9 +1908,11 @@ const comments = [
 const flashSaleProducts = [
     {
         "title": "Tooletries Organizer",
-        "description": "asdsada",
+        "description": "I’m powered by AI, so surprises and mistakes are possible. Make sure to verify any generated code or suggestions, and share feedback so that we can learn and improve.",
         "image": "https://m.media-amazon.com/images/I/611jttXPUWL._AC_SL1500_.jpg",
-        "link": "https://amzn.to/42wfE9B"
+        "link": "https://amzn.to/42wfE9B",
+        "price": "$49.99",
+        "saves": "10 saves"
     },
     {
         "title": "Back Scrubber",
@@ -1958,23 +1962,61 @@ function loadFlashSaleProducts(flashSaleProducts) {
         let div3 = document.createElement("div");
         let div4 = document.createElement("div");
         let h6 = document.createElement("h6");
+        let p1 = document.createElement("p");
+        let div5 = document.createElement("div");
+        let div6 = document.createElement("div");
+        let h4 = document.createElement("h4");
+        let div7 = document.createElement("div");
+        let i = document.createElement("i");
+        let p2 = document.createElement("p");
+        let div8 = document.createElement("div");
+        let button = document.createElement("button");
 
-        div1.className = "swiper-slide col-4 col-xl-3 mb-2 product-card text-center";
+        div1.className = "swiper-slide col-lg-4 col-md-8 col-sm-6 col-xs-6 mb-2 product-card text-center h-auto";
         div2.className = "list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm";
         div3.className = "p-1 position-relative";
         div4.className = "list-card-body";
-        anchorTag.className = "text-decoration-none";
+        anchorTag.className = "text-decoration-none d-flex flex-column h-100";
         img.className = "img-fluid item-img";
         h6.className = "mb-1 text-black";
+        p1.className = "product-description product-text";
+        div5.className = "d-flex justify-content-between mt-auto";
+        div6.className = "px-2";
+        h4.className = "product-text mb-0 text-start";
+        if (e.price === undefined) {
+            h4.className = "product-text mb-0 text-start text-white";
+        }
+        div7.className = "d-flex mb-2";
+        i.className = "bi bi-heart product-text";
+        p2.className = "product-text mb-0 px-1";
+        if (e.saves === undefined) {
+            i.className = "bi bi-heart product-text text-white";
+            p2.className = "product-text mb-0 px-1 text-white";
+        }
+        div8.className = "px-2 my-auto";
+        button.className = "btn btn-dark";
 
         h6.innerText = e.title;
         img.src = e.image;
         anchorTag.href = e.link;
+        p1.innerText = e.description;
+        h4.innerText = e.price;
+        p2.innerText = e.saves;
+        button.innerText = "CHECK IT OUT";
 
+        div7.appendChild(i);
+        div7.appendChild(p2);
+        div6.appendChild(h4);
+        div6.appendChild(div7);
+        div8.appendChild(button);
+        div5.appendChild(div6);
+        div5.appendChild(div8);
         div4.appendChild(h6);
         div3.appendChild(div4);
-        anchorTag.appendChild(img);
         anchorTag.appendChild(div3);
+        anchorTag.appendChild(img);
+        anchorTag.appendChild(p1);
+        anchorTag.appendChild(div5);
         div2.appendChild(anchorTag);
         div1.appendChild(div2);
         holder.appendChild(div1);
@@ -2079,23 +2121,61 @@ function loadProducts(inputProducts) {
         let div3 = document.createElement("div");
         let div4 = document.createElement("div");
         let h6 = document.createElement("h6");
+        let p1 = document.createElement("p");
+        let div5 = document.createElement("div");
+        let div6 = document.createElement("div");
+        let h4 = document.createElement("h4");
+        let div7 = document.createElement("div");
+        let i = document.createElement("i");
+        let p2 = document.createElement("p");
+        let div8 = document.createElement("div");
+        let button = document.createElement("button");
 
-        div1.className = "col-4 col-xl-3 mb-2 product-card text-center";
+        div1.className = "col-xl-3 col-lg-4 col-md-5 col-sm-6 mb-2 product-card text-center";
         div2.className = "list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm";
         div3.className = "p-1 position-relative";
         div4.className = "list-card-body";
-        anchorTag.className = "text-decoration-none";
+        anchorTag.className = "text-decoration-none d-flex flex-column h-100";
         img.className = "img-fluid item-img";
         h6.className = "mb-1 text-black";
+        p1.className = "product-description product-text";
+        div5.className = "d-flex justify-content-between mt-auto";
+        div6.className = "px-2";
+        h4.className = "product-text mb-0 text-start";
+        if (e.price === undefined) {
+            h4.className = "product-text mb-0 text-start text-white";
+        }
+        div7.className = "d-flex mb-2";
+        i.className = "bi bi-heart product-text";
+        p2.className = "product-text mb-0 px-1";
+        if (e.saves === undefined) {
+            i.className = "bi bi-heart product-text text-white";
+            p2.className = "product-text mb-0 px-1 text-white";
+        }
+        div8.className = "px-2 my-auto";
+        button.className = "btn btn-dark";
 
         h6.innerText = e.title;
         img.src = e.image;
         anchorTag.href = e.link;
+        p1.innerText = e.description;
+        h4.innerText = e.price;
+        p2.innerText = e.saves;
+        button.innerText = "CHECK IT OUT";
 
+        div7.appendChild(i);
+        div7.appendChild(p2);
+        div6.appendChild(h4);
+        div6.appendChild(div7);
+        div8.appendChild(button);
+        div5.appendChild(div6);
+        div5.appendChild(div8);
         div4.appendChild(h6);
         div3.appendChild(div4);
-        anchorTag.appendChild(img);
         anchorTag.appendChild(div3);
+        anchorTag.appendChild(img);
+        anchorTag.appendChild(p1);
+        anchorTag.appendChild(div5);
         div2.appendChild(anchorTag);
         div1.appendChild(div2);
         holder.appendChild(div1);
