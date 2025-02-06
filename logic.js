@@ -1908,9 +1908,11 @@ const comments = [
 const flashSaleProducts = [
     {
         "title": "Tooletries Organizer",
-        "description": "asdsada",
+        "description": "I’m powered by AI, so surprises and mistakes are possible. Make sure to verify any generated code or suggestions, and share feedback so that we can learn and improve.",
         "image": "https://m.media-amazon.com/images/I/611jttXPUWL._AC_SL1500_.jpg",
-        "link": "https://amzn.to/42wfE9B"
+        "link": "https://amzn.to/42wfE9B",
+        "price": "$49.99",
+        "saves": "10 saves"
     },
     {
         "title": "Back Scrubber",
@@ -1970,7 +1972,7 @@ function loadFlashSaleProducts(flashSaleProducts) {
         let div8 = document.createElement("div");
         let button = document.createElement("button");
 
-        div1.className = "swiper-slide col-lg-4 col-md-8 col-sm-6 col-xs-6 mb-2 product-card text-center";
+        div1.className = "swiper-slide col-lg-4 col-md-8 col-sm-6 col-xs-6 mb-2 product-card text-center h-auto";
         div2.className = "list-card bg-white h-100 rounded overflow-hidden position-relative shadow-sm";
         div3.className = "p-1 position-relative";
         div4.className = "list-card-body";
